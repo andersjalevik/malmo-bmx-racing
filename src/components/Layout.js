@@ -2,7 +2,6 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
@@ -11,10 +10,10 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="se" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+{/* 
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -47,6 +46,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+        */}
       </Helmet>
       <Navbar />
       <div>{children}</div>

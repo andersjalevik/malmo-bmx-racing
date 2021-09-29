@@ -1,56 +1,30 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
-
+import Img from 'gatsby-image'
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-
     return (
-      <div className="columns is-multiline">
+      <div>
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
+            <div key={post.id}>
+              <Img fluid={post.frontmatter.image.childImageSharp.fluid} />
+              <Link
+                className="title has-text-primary is-size-4"
+                to={post.fields.slug}
               >
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </article>
+                {post.frontmatter.title}
+              </Link>
+              <span >
+                {post.frontmatter.date}
+              </span>
+              <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              <Link className="button" to={post.fields.slug}>
+                Keep Reading
+              </Link>
             </div>
           ))}
       </div>
@@ -76,7 +50,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              html
               id
               fields {
                 slug
@@ -85,10 +59,9 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                featuredimage {
+                image {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 640, quality: 75) {
                       ...GatsbyImageSharpFluid
                     }
                   }
