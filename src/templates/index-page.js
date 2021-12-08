@@ -2,27 +2,24 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Img from 'gatsby-image'
+import Box from '@mui/material/Box';
 
 export const IndexPageTemplate = ({
   image,
   title,
-  body,
+  html,
 }) => (
   <div>
     <h1>{title}</h1>
-    <p>{body}</p>
-    <div
-      style={{
-        width: '400px',
-        height: '200px',
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    />
-  </div>
+    {image && (
+      <Box sx={{width: '50%',  marginTop: '175px', marginBottom: 2, marginLeft: 2, float: 'right'}}>
+        <Img fluid={image.childImageSharp.fluid} />
+      </Box>
+    )}
+    <div dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
+
 )
 
 IndexPageTemplate.propTypes = {
@@ -32,19 +29,17 @@ IndexPageTemplate.propTypes = {
 }
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
-
   return (
-    <Layout>
+    <Layout topImage={data.markdownRemark.frontmatter.topImage}>
       <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        body={frontmatter.body}
+        image={data.markdownRemark.frontmatter.image}
+        title={data.markdownRemark.frontmatter.title}
+        html={data.markdownRemark.html}
       />
       </Layout>
   )
 }
-
+/*
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
@@ -52,23 +47,23 @@ IndexPage.propTypes = {
     }),
   }),
 }
-
+*/
 export default IndexPage
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
+        topImage
         title
-        body
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 900, quality: 75) {
               ...GatsbyImageSharpFluid
             }
           }
         }
-        body
       }
     }
   }

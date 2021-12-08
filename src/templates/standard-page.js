@@ -5,14 +5,13 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const StandardPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
-
+ const PageContent = contentComponent || Content
   return (
     <>
-      <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-        {title}
-      </h2>
-      <PageContent className="content" content={content} />
+    <h1>
+      {title} 
+    </h1>
+    <PageContent className="content" content={content} />
   </>)
 }
 
@@ -22,11 +21,11 @@ StandardPageTemplate.propTypes = {
   contentComponent: PropTypes.func,
 }
 
-const AboutPage = ({ data }) => {
+const StandardPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout topImage={post.frontmatter.topImage}>
       <StandardPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
@@ -36,18 +35,19 @@ const AboutPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+StandardPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default StandardPage
 
-export const aboutPageQuery = graphql`
+export const standardPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
+        topImage
       }
     }
   }
