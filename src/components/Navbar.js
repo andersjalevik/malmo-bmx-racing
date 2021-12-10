@@ -44,7 +44,7 @@ const Navbar = ({location})=> {
       }}
     >
       {links.map(({name, url}) => {
-        const selected =  url === '/' ? path === url : path.indexOf(url) > -1
+        const selected =  url === '/' ? path === url : path && path.indexOf(url) > -1
 
         return (    
         <StyledLink sx={{
