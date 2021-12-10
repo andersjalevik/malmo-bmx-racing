@@ -30,8 +30,8 @@ const links = [
   {name: 'Frågor', url:'/faq'},
   {name: 'Tävling', url:'/tavling'},
 ]
-const Navbar = ({ location }) => {
-  const path = location.pathname
+const Navbar = ({location})=> {
+  const path = location?.pathname
 
   return (
     <Box
@@ -43,22 +43,25 @@ const Navbar = ({ location }) => {
         backgroundColor: '#12628e',
       }}
     >
-      {links.map(({name, url}) => (
-      <StyledLink sx={{
-        flexGrow: 1,
-        textAlign: 'center',
-        backgroundColor: path === url ? 'white' : 'inherit',
-        color: path === url ? '#08354e' : 'white',
-        borderBottomColor: path === url ? 'white' : '#08354e',
-      }} to={url}>
-        {name}
-      </StyledLink>
-      ))}
+      {links.map(({name, url}) => {
+        const selected =  url === '/' ? path === url : path.indexOf(url) > -1
+
+        return (    
+        <StyledLink sx={{
+          flexGrow: 1,
+          textAlign: 'center',
+          backgroundColor: selected ? 'white' : 'inherit',
+          color: selected ? '#08354e' : 'white',
+          borderBottomColor: selected ? 'white' : '#08354e',
+        }} to={url}>
+          {name}
+        </StyledLink>
+      )})}
   </Box>
   )
 }
 
-const MobileMenu = () => {
+const MobileMenu = ({location}) => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
   const handleClick = (event) => {
@@ -114,12 +117,12 @@ md, medium: 900px
 lg, large: 1200px
 xl,
 */
-const Adaptive = () => {
+const Adaptive = ({location}) => {
   return (
     <div>
     
-      <Box sx={{display: {xs: 'inherit', sm: 'none'}}}><MobileMenu /></Box>
-      <Box sx={{display: {xs: 'none', sm: 'inherit'}}}><Navbar/></Box>
+      <Box sx={{display: {xs: 'inherit', sm: 'none'}}}><MobileMenu location={location}/></Box>
+      <Box sx={{display: {xs: 'none', sm: 'inherit'}}}><Navbar location={location}/></Box>
       
     </div>
   )

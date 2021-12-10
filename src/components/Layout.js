@@ -10,7 +10,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import '../global.css'
 
-const TemplateWrapper = ({children, topImage}) => {
+const TemplateWrapper = ({children, topImage, location}) => {
   const { title, description } = useSiteMetadata()
   if (!topImage) {
     topImage="image1"
@@ -86,7 +86,7 @@ const TemplateWrapper = ({children, topImage}) => {
         </Box>
 
         <Img fluid={data[topImage].childImageSharp.fluid} style={{display: 'block'}} />
-        <Navbar />
+        <Navbar location={location} />
         <Box sx={{paddingLeft: {xs: 2, sm: 4, md: 6}, paddingRight: {xs: 2, sm: 4, md: 6}, paddingTop: 2, paddingBottom: {xs: 2, sm: 4, md: 6}}}>
           {children}
         </Box>

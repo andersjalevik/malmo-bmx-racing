@@ -21,11 +21,11 @@ StandardPageTemplate.propTypes = {
   contentComponent: PropTypes.func,
 }
 
-const StandardPage = ({ data }) => {
+const StandardPage = ({ data, location }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout topImage={post.frontmatter.topImage}>
+    <Layout topImage={post.frontmatter.topImage} location={location}>
       <StandardPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

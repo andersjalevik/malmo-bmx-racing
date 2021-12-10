@@ -28,9 +28,9 @@ IndexPageTemplate.propTypes = {
   body: PropTypes.string,
 }
 
-const IndexPage = ({ data }) => {
+const IndexPage = ({ data, location }) => {
   return (
-    <Layout topImage={data.markdownRemark.frontmatter.topImage}>
+    <Layout location={location} topImage={data.markdownRemark.frontmatter.topImage}>
       <IndexPageTemplate
         image={data.markdownRemark.frontmatter.image}
         title={data.markdownRemark.frontmatter.title}

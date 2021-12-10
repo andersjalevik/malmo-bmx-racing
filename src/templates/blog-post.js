@@ -48,11 +48,11 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
 }
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, location }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout topImage='image2' location={location}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -90,6 +90,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         tags
+        topImage
         image {
           childImageSharp {
             fluid(maxWidth: 640, quality: 75) {
