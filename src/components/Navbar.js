@@ -30,8 +30,8 @@ const links = [
   {name: 'Frågor', url:'/faq'},
   {name: 'Tävling', url:'/tavling'},
 ]
-const Navbar = ()=> {
-  const path = window.location.pathname
+const Navbar = ({ location }) => {
+  const path = location.pathname
 
   return (
     <Box
