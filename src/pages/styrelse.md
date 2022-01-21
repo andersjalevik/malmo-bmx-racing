@@ -28,8 +28,5 @@ topImage: image6
 [bild]
 <!--![tavling](/img/tavling.jpg)-->
 
-## Lina Widerberg - Styrelseledamot
-<!--![tavling](/img/tavling.jpg)-->
-
-## Jens Kateb - Styrelseledamot
+## Anders Jälevik - Sekreterare
 <!--![tavling](/img/tavling.jpg)-->
