@@ -13,39 +13,53 @@ import '../global.css'
 const TemplateWrapper = ({children, topImage, location}) => {
   const { title, description } = useSiteMetadata()
   if (!topImage) {
-    topImage="image1"
+    topImage="image6"
   }
 
   const data = useStaticQuery(graphql`
     query {
-      image1: file(relativePath: { eq: "Omslag-210-blue.jpg" }) {
+      image1: file(relativePath: { eq: "top_turn.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 900, maxHeight: 400, quality: 75, cropFocus: SOUTHWEST) {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image2: file(relativePath: { eq: "Omslag-900-white.jpg" }) {
+      image2: file(relativePath: { eq: "top_focus.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 900, maxHeight: 400, quality: 75, cropFocus: SOUTHWEST) {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image3: file(relativePath: { eq: "Omslag-1012-white.jpg" }) {
+      image3: file(relativePath: { eq: "top_friends.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 900, maxHeight: 400, quality: 75, cropFocus: SOUTHWEST) {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image4: file(relativePath: { eq: "Omslag-Summer-white.jpg" }) {
+      image4: file(relativePath: { eq: "top_jump.jpg" }) {
         childImageSharp {
-          fluid(maxWidth: 900, maxHeight: 400, quality: 75, cropFocus: SOUTHWEST) {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
+      image5: file(relativePath: { eq: "top_flight.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }    
+      image6: file(relativePath: { eq: "top_walk.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }   
     }
   `)
 
@@ -80,12 +94,18 @@ const TemplateWrapper = ({children, topImage, location}) => {
         <meta property="og:url" content="/" />
       </Helmet>
       <Paper elevation={3} sx={{margin: 'auto', maxWidth: 900, marginTop: {xs: 0, sm: 0, md: 6}}}>
-      <Box sx={{backgroundColor: '#ff55ff', textAlign: 'center', fontSize: '20px', padding: 2}}>
+      {/*
+        <Box sx={{backgroundColor: '#ff55ff', textAlign: 'center', fontSize: '20px', padding: 2}}>
         <div>OBS!!! Detta är ej den officiella hemsidan för Malmö BMX Racing!</div>
         <a href="https://www.facebook.com/groups/malmobmx">Kolla vår facebooksida istället</a>
         </Box>
-
+ */}
         <Img fluid={data[topImage].childImageSharp.fluid} style={{display: 'block'}} />
+{/*
+        <Box sx={{position: 'absolute', width: '120px', top:'220px', height: '102px', backgroundColor: 'white', left: 'calc(50% - 60px)', margin: 'auto'}}>
+          <img src='/img/logo.png' width='120' height='120' style={{marginTop: '-18px'}} />
+        </Box>
+*/}
         <Navbar location={location} />
         <Box sx={{paddingLeft: {xs: 2, sm: 4, md: 6}, paddingRight: {xs: 2, sm: 4, md: 6}, paddingTop: 2, paddingBottom: {xs: 2, sm: 4, md: 6}}}>
           {children}

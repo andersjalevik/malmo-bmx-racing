@@ -6,16 +6,13 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS()
 
   if (data) {
+    
     return (
       <div style={{backgroundColor: 'white', padding: '16px'}}>
       <IndexPageTemplate
-        image={getAsset(data.image)}
         title={data.title}
-        heading={data.heading}
-        subheading={data.subheading}
-        description={data.description}
-        intro={data.intro || { blurbs: [] }}
-        mainpitch={data.mainpitch || {}}
+        image={getAsset(data.image)}
+        html={data.body}
       />
       </div>
     )
@@ -32,3 +29,10 @@ IndexPagePreview.propTypes = {
 }
 
 export default IndexPagePreview
+
+/*
+    <Layout location={location} topImage={data.markdownRemark.frontmatter.topImage}>
+      <IndexPageTemplate
+        image={data.markdownRemark.frontmatter.image}
+        title={data.markdownRemark.frontmatter.title}
+        html={data.markdownRemark.html} */
