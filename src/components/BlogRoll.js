@@ -25,10 +25,10 @@ class BlogRoll extends React.Component {
                     <Img fluid={post.frontmatter.image.childImageSharp.fluid}/> : 
                     <Box sx={{
                       height: '100%',
-                      backgroundImage: 'url(../../img/rider-blue.png)',
-                      backgroundPosition: 'center',
-                      backgroundSize: 'contain',
-                      backgroundRepeat: 'no-repeat',
+                      // backgroundImage: 'url(../../img/rider-blue.png)',
+                      // backgroundPosition: 'center',
+                      // backgroundSize: 'contain',
+                      // backgroundRepeat: 'no-repeat',
                     }} />
                     }</Box>
                 <Box sx={{width: '2%'}} />
