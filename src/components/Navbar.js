@@ -7,8 +7,8 @@ import MenuItem from '@mui/material/MenuItem';
 import MenuIcon from '@mui/icons-material/Menu';
 
 
-const useWindowWidth = () => {
-  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+const useWindowWidth = (initialState = "100%") => {
+  const [windowWidth, setWindowWidth] = useState(initialState);
 
   useEffect(() => {
     function handleResize() {
