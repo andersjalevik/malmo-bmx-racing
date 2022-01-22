@@ -2,10 +2,12 @@
 templateKey: index-page
 topImage: image1
 title: Välkommen!
-image: /img/tavling.jpg
 ---
 
+
 Malmö BMX Racing är en förening som drivs helt på ideell basis där glädje, gemenskap och kärleken till BMX står i fokus. Alla kan köra BMX och vissa påstår att det är världens bästa familjesport och vi är beredda att hålla med. Vi är en liten förening och om du vill så kommer du in blixtsnabbt i BMX-familjen här i Malmö. Varmt välkomna!  
+
+![wheelie](/img/wheelie.jpg#right)
 
 ### Här hittar du
 

@@ -25,7 +25,7 @@ Läs mer om detta på [tränings-sidan](/traning)
 
 
 ## <a id="utrustning">Utrustning och cykel</a>
-Det har dykt upp en del frågor om egen cykel och hjälm och det är inte alltid lätt att veta vad och vart man skall söka så här kommer lite tips!
+![trafik](/img/trafik.jpg#right)
 
 ### Vilken cykelstorlek skall det vara?
 Klart lättast är att testa lånecyklarna på klubben och se vad som passar. Uppsala BMX har annars en [bra sida](https://cykel.smkuppsala.com/traning/kopacykel/) på ungefärliga storlekar.

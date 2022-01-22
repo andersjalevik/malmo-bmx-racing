@@ -5,14 +5,10 @@ title: Tävling
 topImage: image5
 ---
 
-
 ## Kommande tävlingar 2022
 Här kommer det dyka upp mer info när tävlingarna är annonserade.
-
-![skyltar](/img/plates.png)
-<img src="/img/plates.png" width="100%" />
-
 ## Licens
+![race](/img/race.jpg#right)
 För att tävla i bmx krävs en licens från svenska cykelförbundet (scf). Med licensen följer även en försäkring. Du ansöker om licens på följande vis:  
 
 1. Prata med oss i klubbstugan för att få reda på ditt idrottsID (IID).  
@@ -49,20 +45,15 @@ Fungerar det inte som det skall? Kontakta oss på malmobmxracing+licens[at]gmail
 Kontakta oss på malmobmxracing[at]gmail.com angående lediga tävlingsnummer.
 
 ## Regler för skyltar
+
+![skyltar](/img/skyltar.png#stretch)
 ### Framskylt
-Textstorlek:  
+* Expert flickor/damer: Blå skylt med vita siffror  
+* Expert pojkar/män: Gul skylt med svarta siffror  
+* Cruiser: Röd skylt med vita siffror  
+* Elit (standard och cruiser):  Vit skylt med svarta siffror  
+* Junior (standard och cruiser): Svart skyltmed vita siffror  
+
 Siffror skall vara 8 cm höga och minst 1cm tjocka.
-
-Färger:  
-Expert pojkar/män: Gul skylt med svarta siffror  
-Expert flickor/damer: Blå skylt med vita siffror  
-Cruiser: Röd skylt med vita siffror  
-Elit (standard och cruiser):  Vit skylt med svarta siffror  
-Junior (standard och cruiser): Svart skyltmed vita siffror  
-
 ### Sidoskylt
-Textstorlek:    
 Siffror skall vara 6cm höga
-
-Färg:  
-Sidoskylten ska vara vit med svarta siffror
