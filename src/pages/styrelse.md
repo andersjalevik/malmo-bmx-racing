@@ -5,58 +5,52 @@ title: Styrelse
 topImage: image6
 ---
 
-[Lite allmän info om styrelsen här]
-
+![profil](/img/profile.png#left)
 ### Anette Lindberg - Ordförare 
-![profil](/img/profile.png#left)
 #### Det bästa med klubben är?
 [infoga svar här]
 #### Vad är du sugen på att jobba med med 2022
 [infoga svar här]
 
 <br/>
+<br/>
 
+![profil](/img/profile.png#left)
 ### Marcus Rostedt - Vice Ordförande
-![profil](/img/profile.png#left)
 #### Det bästa med klubben är?
 [infoga svar här]
 #### Vad är du sugen på att jobba med med 2022
 [infoga svar här]
 
 <br/>
+<br/>
 
+![profil](/img/profile.png#left)
 ### Dan Stenqvist - Kassör
-![profil](/img/profile.png#left)
 #### Det bästa med klubben är?
 [infoga svar här]
 #### Vad är du sugen på att jobba med med 2022
 [infoga svar här]
 
 <br/>
+<br/>
 
+![profil](/img/profile.png#left)
 ### Freddy Arvidsson - Styrelseledamot
-![profil](/img/profile.png#left)
 #### Det bästa med klubben är?
 [infoga svar här]
 #### Vad är du sugen på att jobba med med 2022
 [infoga svar här]
 
 <br/>
+<br/>
 
+![profil](/img/profile.png#left)
 ### Jimmy Widerberg - Styrelseledamot
-[bild]
-<!--![tavling](/img/tavling.jpg)-->
 #### Det bästa med klubben är?
 [infoga svar här]
 #### Vad är du sugen på att jobba med med 2022
 [infoga svar här]
 
 <br/>
-  
-### Anders Jälevik - Sekreterare
-![profil](/img/profile.png#left)
-#### Det bästa med klubben är?
-[infoga svar här]
-#### Vad är du sugen på att jobba med med 2022
-[infoga svar här]
-
+<br/>
