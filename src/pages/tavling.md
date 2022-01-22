@@ -1,5 +1,5 @@
 ---
-templateKey: 'standard-page'
+templateKey: standard-page
 path: /tavling
 title: Tävling
 topImage: image5
@@ -9,8 +9,9 @@ topImage: image5
 ## Kommande tävlingar 2022
 Här kommer det dyka upp mer info när tävlingarna är annonserade.
 
-<!--![tavling](/img/tavling.jpg)-->
-<!-- <img src="img/tavling.jpg" width="100" height="100" /> -->
+![skyltar](/img/plates.png)
+<img src="/img/plates.png" width="100%" />
+
 ## Licens
 För att tävla i bmx krävs en licens från svenska cykelförbundet (scf). Med licensen följer även en försäkring. Du ansöker om licens på följande vis:  
 
