@@ -18,42 +18,42 @@ const TemplateWrapper = ({children, topImage, location}) => {
 
   const data = useStaticQuery(graphql`
     query {
-      image1: file(relativePath: { eq: "top_turn.jpg" }) {
+      image1: file(relativePath: { eq: "top/top_turn.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image2: file(relativePath: { eq: "top_focus.jpg" }) {
+      image2: file(relativePath: { eq: "top/top_focus.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image3: file(relativePath: { eq: "top_friends.jpg" }) {
+      image3: file(relativePath: { eq: "top/top_friends.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image4: file(relativePath: { eq: "top_jump.jpg" }) {
+      image4: file(relativePath: { eq: "top/top_jump.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      image5: file(relativePath: { eq: "top_flight.jpg" }) {
+      image5: file(relativePath: { eq: "top/top_flight.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid
           }
         }
       }    
-      image6: file(relativePath: { eq: "top_walk.jpg" }) {
+      image6: file(relativePath: { eq: "top/top_walk.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 900, maxHeight: 300, quality: 75, cropFocus: SOUTHWEST) {
             ...GatsbyImageSharpFluid

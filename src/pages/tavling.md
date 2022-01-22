@@ -6,14 +6,8 @@ topImage: image5
 ---
 
 
-## Tävlingar
-Lägg till länkar här till:
-* KM
-* Swecup
-* SM
-* Haloween-race
-* Summer-race
-* Succé-cup
+## Kommande tävlingar 2022
+Här kommer det dyka upp mer info när tävlingarna är annonserade.
 
 <!--![tavling](/img/tavling.jpg)-->
 <!-- <img src="img/tavling.jpg" width="100" height="100" /> -->
@@ -22,7 +16,7 @@ För att tävla i bmx krävs en licens från svenska cykelförbundet (scf). Med 
 
 1. Prata med oss i klubbstugan för att få reda på ditt idrottsID (IID).  
 
-2. Gå till https://scf.se/forbundet/tavlingsverksamhet/arrangera-tavling/nytt-fran-uci/ och tryck på Ansökningsformulär för UCI ID - individuell ansökan. 
+2. Gå till [SCF](https://scf.se/forbundet/tavlingsverksamhet/arrangera-tavling/nytt-fran-uci/) och tryck på Ansökningsformulär för UCI ID - individuell ansökan. 
 
 3. Fyll i samtliga uppgifter.  
 Ange Malmö BMX som förening  
@@ -44,11 +38,11 @@ Licenstyp är i de flesta fall:
 * "Youth Men/Women" för ungdommar mellan 10-16 år  
 * "Baslicens Men/Women" för cruiserföräldrar (Obs, för SM krävs ofta Master)  
 
-För elitklasser etc. finns mer info om de olika typerna finns här: https://scf.se/forbundet/tavlingsavgifter/licensavgifter-2022/
+För elitklasser etc. finns mer info om de olika typerna finns [här](https://scf.se/forbundet/tavlingsavgifter/licensavgifter-2022/)
 
 Fungerar det inte som det skall? Kontakta oss på malmobmxracing+licens[at]gmail.com så kan vi förhoppningsvis hjälpa till!
 
-Mer info om licens här: https://scf.se/forbundet/tavlingsverksamhet/tavlingslicens-chip-och-forsakringar/
+[Mer info om licens här](https://scf.se/forbundet/tavlingsverksamhet/tavlingslicens-chip-och-forsakringar/)
 
 ## Tävlingsnummer
 Kontakta oss på malmobmxracing[at]gmail.com angående lediga tävlingsnummer.

@@ -15,6 +15,6 @@ Malmö BMX Racing är en förening som drivs helt på ideell basis där glädje,
 * [Info om tävlingar, licenser och resultat](/tavling)  
 
 ### Facebook
-I princip all vår kommunikation sker för tillfället på facebook så för att se den mest uppdaterade informationen är det [https://www.facebook.com/groups/malmobmx](https://www.facebook.com/groups/malmobmx) som gäller. Här kommer vi posta info om prova på, intresseanmälan till våra grupper, info om större arrangemang etc.  
+I princip all vår kommunikation sker för tillfället på facebook så för att se den mest uppdaterade informationen är det [vår publika facebookgrupp](https://www.facebook.com/groups/malmobmx) som gäller. Här kommer vi posta info om prova på, intresseanmälan till våra grupper, info om större arrangemang etc.  
 
-Är du redan medlem och tränar i klubben, isåfall är det bra att hålla koll på våran medlemsgrupp: [https://www.facebook.com/groups/malmobmxmedlemmar](https://www.facebook.com/groups/malmobmxmedlemmar). Där postar vi träningsrelaterad information som tex inställda/flyttade träningar, tävlingsanmälningar, fixardagar etc.  
+Är du redan medlem och tränar i klubben, isåfall är det bra att hålla koll på våran [medlemsgrupp](https://www.facebook.com/groups/malmobmxmedlemmar). Där postar vi träningsrelaterad information som tex inställda/flyttade träningar, tävlingsanmälningar, fixardagar etc.  

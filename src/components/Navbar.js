@@ -35,6 +35,7 @@ const links = [
 
 const StyledLink = styled(Link)(
   () => `
+  text-decoration: none;
   color: white;
   font-size: 18px;
   padding: 16px;
@@ -100,7 +101,7 @@ const MobileMenu = ({location, links}) => {
       >
         {links.map((link) => (
           <MenuItem style={{padding: 0, margin: 0}}key={link.name} selected={false} onClick={handleClose}>
-            <Link style={{padding: '8px 12px 8px 12px', width: '100%'}} to={link.url}>{link.name}</Link>
+            <Link style={{padding: '8px 12px 8px 12px', width: '100%', textDecoration: 'none'}} to={link.url}>{link.name}</Link>
           </MenuItem>
         ))}
       </Menu>
@@ -108,8 +109,9 @@ const MobileMenu = ({location, links}) => {
   );
 }
 
-const Navbar = ({location})=> {
+const Navbar = ({location, numberOfTabs})=> {
   const path = location?.pathname
+  /*
   const windowWidth = useWindowWidth()
   console.log(windowWidth)
   let numberOfTabs = 5
@@ -125,6 +127,7 @@ const Navbar = ({location})=> {
   if (windowWidth <= 300) {
     numberOfTabs = 1
   }
+*/
 
   const navbarLinks = links.slice(0, numberOfTabs)
   const menuLinks = links.slice(numberOfTabs, links.length)
@@ -180,12 +183,10 @@ xl,
 const Adaptive = ({location}) => {
   return (
     <div>
-      <Navbar location={location}/>
+      {/*<Navbar location={location}/>*/}
 
-    {/* 
-      <Box sx={{display: {xs: 'inherit', sm: 'none'}}}><MobileMenu location={location}/></Box>
-      <Box sx={{display: {xs: 'none', sm: 'inherit'}}}><Navbar location={location}/></Box>
-      */}
+      <Box sx={{display: {xs: 'inherit', sm: 'none'}}}><Navbar location={location} numberOfTabs="2"/></Box>
+      <Box sx={{display: {xs: 'none', sm: 'inherit'}}}><Navbar location={location} numberOfTabs="5"/></Box>
     </div>
   )
 }
