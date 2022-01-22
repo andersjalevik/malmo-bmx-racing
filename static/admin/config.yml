@@ -13,7 +13,7 @@ public_folder: /img
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Nyheter"
     folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -29,16 +29,44 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Startsida"
+        label: "Välkommen"
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: "text"}
           - {label: Top Image, name: topImage, widget: string}
+      - file: "src/pages/traning.md"
+        label: "Träning"
+        name: "traning"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
+      - file: "src/pages/faq.md"
+        label: "Frågor"
+        name: "faq"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
       - file: "src/pages/tavling.md"
         label: "Tävling"
         name: "tavling"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
+      - file: "src/pages/styrelse.md"
+        label: "Styrelse"
+        name: "styrelse"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
+      - file: "src/pages/lankar.md"
+        label: "Länkar"
+        name: "lankar"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
           - {label: Title, name: title, widget: string}
