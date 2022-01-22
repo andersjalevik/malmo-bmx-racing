@@ -29,7 +29,7 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Startsida"
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
@@ -37,3 +37,10 @@ collections:
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: "text"}
           - {label: Top Image, name: topImage, widget: string}
+      - file: "src/pages/tavling.md"
+        label: "Tävling"
+        name: "tavling"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
