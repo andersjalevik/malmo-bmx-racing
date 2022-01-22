@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: En blogpost med bild
 date: 2022-01-21T14:09:56.491Z
-image: /img/tavling.jpg
+image: /img/race.jpg
 tags:
   - test
 ---
