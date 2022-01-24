@@ -1,27 +1,10 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import { Link } from 'gatsby'
 import Box from '@mui/material/Box';
 import { styled } from '@mui/material/styles';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
 import MenuIcon from '@mui/icons-material/Menu';
-
-
-const useWindowWidth = (initialState = "100%") => {
-  const [windowWidth, setWindowWidth] = useState(initialState);
-
-  useEffect(() => {
-    function handleResize() {
-      setWindowWidth(window.innerWidth);
-    }
-
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
-  }, []);
-
-  return windowWidth;
-}
-
 
 const links = [
   {name: 'Välkommen', url:'/'},

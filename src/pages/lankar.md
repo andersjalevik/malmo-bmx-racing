@@ -7,7 +7,7 @@ topImage: image4
 
 ## Film & Foto
 * [Michael Strömgrens foto](https://mstromgren.se/bmx)  
-* [Therese Sjunneson foto](https://www.facebook.com/groups/526951185033636/media/albums)  
+* [Therese Sjunnesson foto](https://www.facebook.com/groups/526951185033636/media/albums)  
 * [Johan Moléns filmer](https://www.youtube.com/channel/UCETkgOYR3OIJw50AjNZWjkA)  
 
 ## Förbund

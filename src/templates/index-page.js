@@ -2,8 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Img from 'gatsby-image'
-import Box from '@mui/material/Box';
 
 export const IndexPageTemplate = ({
   title,

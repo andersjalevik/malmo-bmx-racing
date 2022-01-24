@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Img from 'gatsby-image'
+import Box from '@mui/material/Box';
 
 export const BlogPostTemplate = ({
   content,
@@ -20,9 +21,15 @@ export const BlogPostTemplate = ({
   return (
     <section className="section">
       {helmet || ''}
-      <div>
-        {image && <Img fluid={image.childImageSharp.fluid} />}
         <div><h1>{title}</h1></div>
+        <div>
+        {image && <Box sx={{
+          width: {xs: '100%', sm: '45%', md: '45%'},
+          float: {xs: 'inherit', sm: 'right', md: 'right'},
+          margin: {xs: '0', sm: "0 0 1em 2em", md: "0 0 1em 2em"},
+        }}>
+          <Img fluid={image.childImageSharp.fluid}/>
+        </Box>}
         <PostContent content={content} />
           {tags && tags.length ? (
             <div>
