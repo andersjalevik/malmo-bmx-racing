@@ -4,7 +4,7 @@ title: Ny hemsida!
 date: 2022-01-21T18:06:47.890Z
 image: /img/hemsida.png
 tags:
-  - test
+  - hemsida
 ---
 Som ni kanske märkt har vi nu en helt ny hemsida!\
 Den gamla hos idrott online var dåligt underhållen, krånglig att uppdatera och hemside-stödet skall dessutom tas bort i slutet på året.

@@ -42,7 +42,7 @@ Per kalenderhalvår: 700,00
 
 ### Postgiro / swish
 Pg-konto: 749019-6  
-Swish: 000000  
+Swish: 123 105 94 27  
 
 Markera betalningen med avgifts-typ samt åkarens personnr  
 

@@ -88,3 +88,19 @@ img[src*="#right"] {
     margin-right: 0;
   }  
 }
+
+br.clear {
+  clear: both;
+}
+
+img[src*="#right-desktop"] {
+  width: 45%;
+  float: right;
+  margin: 0 0 1em 2em;
+}
+
+@media (max-width: 599px) {
+  img[src*="#right-desktop"] {
+    display: none;
+  }  
+}
