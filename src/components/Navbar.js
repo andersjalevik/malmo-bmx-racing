@@ -9,6 +9,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 const links = [
   {name: 'Välkommen', url:'/'},
   {name: 'Nyheter', url:'/blog'},
+  {name: 'Kalender', url:'/kalender'},
   {name: 'Träning', url:'/traning'},
   {name: 'Frågor', url:'/faq'},
   {name: 'Tävling', url:'/tavling'},
