@@ -6,7 +6,19 @@ topImage: image5
 ---
 
 ## Kommande tävlingar 2022
-Här kommer det dyka upp mer info när tävlingarna är annonserade.
+* 21/5 - 22/5: Swecup 1&2, Kungsbacka  
+* 26/5 - 28/5: Succecup, Norge  
+* 11/6 - 12/6: Summerrace, Ängelholm  
+* 18/6: Swecup 3, Uppsala  
+* 19/6: Swecup 4, Älvsjö  
+* 2/7: SM, Lerum  
+* 3/7: Swecup 5, Lerum  
+* 13/8 - 14/8: Summer Challenge, Kungsbacka  
+* 27/8 - 28/8: Swecup 6&7, Engelholm  
+
+Tävlingarna finns även inlagda i vår [kalender](/kalender).  
+För en komplett tävlingskalender inklusive internationella tävlingar finns [tävlingskalender-pdf:en här](Tävlingskalender_BMX_2022-vers20jan.pdf)
+
 ## Licens
 ![race](/img/race.jpg#right)
 För att tävla i bmx krävs en licens från svenska cykelförbundet (scf). Med licensen följer även en försäkring. Du ansöker om licens på följande vis:  

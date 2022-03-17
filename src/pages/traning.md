@@ -7,9 +7,10 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till? 
-I början av säsongen kommer vi först skicka ut vilka grupper vi har samt en intresseanmälan till de cyklister som var aktiva förra säsongen. Därefer kommer vi posta samma intresseanmälan här samt på vår publika [facebooksida](https://www.facebook.com/groups/malmobmx). Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
+Anmälan inför VT2022 är nu öppen och görs här: https://forms.gle/txcZiHuv8fukLezb9  
+Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
 ### När börjar träningen?
-Vårterminen brukar börja i slutet av mars / början av april, men kolla gärna här samt på vår [facebooksida](https://www.facebook.com/groups/malmobmx) när det närmar sig för exakt datum.
+Träningsstart VT2020 är vecka 13 (dvs start 28:e mars) men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
 Våra grupper vt 2022 kommer med största sannolikhet se ut på följande sätt (med reservation för ändringar).
@@ -37,6 +38,13 @@ På lördagförmiddagarna är det ofta spontan "fri träning" mellan 10:00 - 12:
 Vi vet hur struligt det kan vara att få till vardagspusslet så vi försöker ordna med syskonförtur vad gäller gruppindelning.
 ## Låna utrustning
 Vi har ett begränsat antal lånecyklar och lånehjälmar. Dessa används framförallt av nya cyklister och är det många som vill låna kan det bli att turas om. De cyklister som sen fortsätter cykla brukar skaffa egen cykel och hjälm. Mer info om vart man kan hitta cykel [hittar du här](/faq#utrustning).
+## Regler
+För att undvika olyckor på banan har vi några enkla regler som skall följas när du cyklar på banan:
+1. Cyklisten skall ha fullface-hjälm, långärmad tröja, byxor och handskar
+2. Cyklande barn måste alltid ha en målsman på plats under träningen.
+3. Alla måste cykla åt samma håll (från start till mål) om inte tränaren uttryckligen sagt annat.
+4. Stanna inte mitt i banan utan gå i så fall åt sidan.
+5. Om någon ramlat i banan sakta ned och kolla läget.  
 
 ## Avgifter
 ### Medlemsavgift 2022
