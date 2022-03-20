@@ -13,7 +13,7 @@ const links = [
   {name: 'Träning', url:'/traning'},
   {name: 'Frågor', url:'/faq'},
   {name: 'Tävling', url:'/tavling'},
-  {name: 'Styrelse', url:'/styrelse'},
+//  {name: 'Styrelse', url:'/styrelse'},
   {name: 'Länkar', url:'/lankar'},
 ]
 
