@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Intresseanmälan VT 2022
+description: Malmö BMX Racing Nyheter - Intresseanmälan VT 2022
 date: 2022-03-17T17:06:21.190Z
 image: /img/anm.jpg
 tags:

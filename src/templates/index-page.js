@@ -21,7 +21,11 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = ({ data, location }) => {
   return (
-    <Layout location={location} topImage={data.markdownRemark.frontmatter.topImage}>
+    <Layout 
+      location={location} topImage={data.markdownRemark.frontmatter.topImage}
+      title={data.markdownRemark.frontmatter.title}
+      description={data.markdownRemark.frontmatter.description}
+    >
       <IndexPageTemplate
         title={data.markdownRemark.frontmatter.title}
         html={data.markdownRemark.html}
@@ -47,6 +51,7 @@ export const pageQuery = graphql`
       frontmatter {
         topImage
         title
+        description
       }
     }
   }

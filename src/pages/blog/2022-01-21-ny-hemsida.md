@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: Ny hemsida!
+title: Ny hemsida
+description: Malmö BMX Racing Nyheter - Ny hemsida
 date: 2022-01-21T18:06:47.890Z
 image: /img/hemsida.png
 tags:

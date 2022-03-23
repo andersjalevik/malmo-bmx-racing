@@ -10,8 +10,9 @@ import { graphql, useStaticQuery } from 'gatsby'
 import Img from 'gatsby-image'
 import '../global.css'
 
-const TemplateWrapper = ({children, topImage, location}) => {
-  const { title, description } = useSiteMetadata()
+const TemplateWrapper = ({children, topImage, location, title, description}) => {
+
+  const { title: fallbackTitle, description: fallbackDescription } = useSiteMetadata()
   if (!topImage) {
     topImage="image6"
   }
@@ -67,24 +68,24 @@ const TemplateWrapper = ({children, topImage, location}) => {
     <div>
       <Helmet>
         <html lang="se" />
-        <title>{title}</title>
-        <meta name="description" content={description} />
+        <title>{title || fallbackTitle}</title>
+        <meta name="description" content={description || fallbackDescription} />
 
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix('/')}img/favicon/apple-touch-icon.png`}
+          href={`/img/favicon/apple-touch-icon.png`}
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon-32x32.png`}
+          href={`/img/favicon-32x32.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
+          href={`/img/favicon-16x16.png`}
           sizes="16x16"
         />
 

@@ -2,6 +2,7 @@
 templateKey: 'standard-page'
 path: /faq
 title: Vanliga frågor
+description: Malmö BMX Racing - Vanliga frågor
 topImage: image4
 ---
 

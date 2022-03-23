@@ -59,20 +59,11 @@ const BlogPost = ({ data, location }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout topImage='image2' location={location}>
+    <Layout topImage='image2' location={location} title={`Nyheter: ${post.frontmatter.title}`} description={post.frontmatter.description}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         image={post.frontmatter.image}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
@@ -96,6 +87,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        description
         tags
         topImage
         image {

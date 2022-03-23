@@ -23,9 +23,13 @@ StandardPageTemplate.propTypes = {
 
 const StandardPage = ({ data, location }) => {
   const { markdownRemark: post } = data
-
   return (
-    <Layout topImage={post.frontmatter.topImage} location={location}>
+    <Layout 
+      topImage={post.frontmatter.topImage}
+      location={location}
+      title={post.frontmatter.title}
+      description={post.frontmatter.description}
+    >
       <StandardPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
@@ -47,6 +51,7 @@ export const standardPageQuery = graphql`
       html
       frontmatter {
         title
+        description
         topImage
       }
     }

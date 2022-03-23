@@ -2,6 +2,7 @@
 templateKey: 'standard-page'
 path: /traning
 title: Träning
+description: Malmö BMX Racing - Träning
 topImage: image3
 ---
 

@@ -2,6 +2,7 @@
 templateKey: 'standard-page'
 path: /lankar
 title: Länkar
+description: Malmö BMX Racing - Länkar
 topImage: image4
 ---
 

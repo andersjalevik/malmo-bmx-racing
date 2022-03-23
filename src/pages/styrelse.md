@@ -2,6 +2,7 @@
 templateKey: standard-page
 path: /styrelse
 title: Styrelse
+description: Malmö BMX Racing - Styrelse
 topImage: image6
 ---
 

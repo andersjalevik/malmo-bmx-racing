@@ -1,5 +1,6 @@
 ---
 templateKey: calendar-page
-title: Kalender!
+title: Kalender
+description: Malmö BMX Racing - Kalender
 topImage: image5
 ---

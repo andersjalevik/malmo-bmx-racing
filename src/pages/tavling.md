@@ -2,6 +2,7 @@
 templateKey: standard-page
 path: /tavling
 title: Tävling
+description: Malmö BMX Racing - Tävling
 topImage: image5
 ---
 
