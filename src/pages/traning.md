@@ -1,5 +1,5 @@
 ---
-templateKey: 'standard-page'
+templateKey: standard-page
 path: /traning
 title: Träning
 description: Malmö BMX Racing - Träning
@@ -64,6 +64,4 @@ Markera betalningen med avgifts-typ samt åkarens personnr
 ## Starta upp en ny grupp?
 ![freddy](/img/freddy.jpg#left)
 Alla våra tränare är engagerade föräldrar som själva har barn i gruppen de tränar. Har du barn som är sugna på att cykla och där du själv är nyfiken (tilsammans med andra föräldrar) att starta upp en egen grupp?  
-Hör isåfall av dig till oss på malmobmxracing (at) gmail.com så kan vi snacka ihop oss! Vi har många barn som står i kö men inte så många tränare för tillfället.  
-
-Som tack till de föräldrar som ställer upp som tränare bjussar vi på träningsavgifen för barnen. Du behöver ingen större förkunskap och du kommer få många glada leenden tillbaka! Vi kommer såklart även se till att någon av nuvarande tränare kommer vara med i början och visa hur allt fungerar samt ge lite tips!
+Hör isåfall av dig till oss på malmobmxracing (at) gmail.com så kan vi snacka ihop oss! Du behöver ingen större förkunskap och du kommer få många glada leenden tillbaka! Vi kommer såklart även se till att någon av nuvarande tränare kommer vara med i början och visa hur allt fungerar samt ge lite tips!
