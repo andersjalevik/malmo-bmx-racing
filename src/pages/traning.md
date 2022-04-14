@@ -18,10 +18,10 @@ Våra grupper vt 2022 kommer med största sannolikhet se ut på följande sätt 
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Tisdagar 17:30 - 18:30  
-### Nybörjargruppen
+### Nybörjargruppen (Fullbokad VT 2022)
 Även här ligger fokus på att lära känna cykeln och kunna  ta sig runt banan, dock med lite mer fart än knattarna och viss teknikträning som tex pumpning, starter och kurvtagning.  Lämplig ålder 7år och uppåt och inga förkunskaper krävs. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Torsdag 18:30 - 19:30  
-### Tävlingsgruppen
+### Tävlingsgruppen  (Fullbokad VT 2022)
 Här cyklar de barn och ungdomar som kört tidigare och vill ha lite högre tempo än nybörjargruppen. Fokus ligger mer på att kunna köra snabbare, träning inför tävling och teknikträning på tex wheelies, hopp, pumpning och starter. De som tränar här förväntas ha egen cykel och utrustning.  
 Tid: Måndagar & Onsdagar 18:00 - 19:00
 ### Tjejgruppen
