@@ -8,13 +8,12 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till? 
-Anmälan inför VT2022 är nu öppen och görs här: https://forms.gle/txcZiHuv8fukLezb9  
-Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
+Anmälan till träning HT2022 är nu utskickad till våra medlemmar, nästa tisdag (den 9:e aug) är tanken att öppna anmälan för alla. Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
 ### När börjar träningen?
-Träningsstart VT2020 är vecka 13 (dvs start 28:e mars) men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
+Träningsstart HT2020 är vecka 33 men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
-Våra grupper vt 2022 kommer med största sannolikhet se ut på följande sätt (med reservation för ändringar).
+Våra grupper HT 2022 är (med reservation för ändringar).
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Tisdagar 17:30 - 18:30  
