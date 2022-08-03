@@ -9,6 +9,8 @@ topImage: image3
 ## Börja träna
 ### Hur går anmälning till? 
 Anmälan till träning HT2022 är nu utskickad till våra medlemmar, nästa tisdag (den 9:e aug) är tanken att öppna anmälan för alla. Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
+### Har ni prova på?
+Vi har inga dedikerade prova-på tillfällen men skulle ni mot all förmoda inte gilla bmx-racing efter de tre första träningstillfällena behöver ni inte betala träningsavgift, men meddela gärna tränaren så vi kan ta in nya åkare från ev. reservlista.   
 ### När börjar träningen?
 Träningsstart HT2022 är vecka 33 men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
 ## Våra grupper
@@ -17,10 +19,10 @@ Våra grupper HT 2022 är (med reservation för ändringar).
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Tisdagar 17:30 - 18:30  
-### Nybörjargruppen (Fullbokad VT 2022)
+### Nybörjargruppen
 Även här ligger fokus på att lära känna cykeln och kunna  ta sig runt banan, dock med lite mer fart än knattarna och viss teknikträning som tex pumpning, starter och kurvtagning.  Lämplig ålder 7år och uppåt och inga förkunskaper krävs. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Torsdag 18:30 - 19:30  
-### Tävlingsgruppen  (Fullbokad VT 2022)
+### Tävlingsgruppen
 Här cyklar de barn och ungdomar som kört tidigare och vill ha lite högre tempo än nybörjargruppen. Fokus ligger mer på att kunna köra snabbare, träning inför tävling och teknikträning på tex wheelies, hopp, pumpning och starter. De som tränar här förväntas ha egen cykel och utrustning.  
 Tid: Måndagar & Onsdagar 18:00 - 19:00
 ### Tjejgruppen
