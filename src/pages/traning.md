@@ -10,7 +10,7 @@ topImage: image3
 ### Hur går anmälning till? 
 Anmälan till träning HT2022 är nu utskickad till våra medlemmar, nästa tisdag (den 9:e aug) är tanken att öppna anmälan för alla. Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
 ### När börjar träningen?
-Träningsstart HT2020 är vecka 33 men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
+Träningsstart HT2022 är vecka 33 men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
 Våra grupper HT 2022 är (med reservation för ändringar).
