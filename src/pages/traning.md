@@ -8,13 +8,14 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till?
-Nu är anmälan till Höstterminen 2022 öppen!
+Nu är anmälan till Höstterminen 2022 öppen!  
 Det är jättekul att så många som började förra säsongen vill fortsätta men tyvärr innebär det att både nybörjargruppen och tävlingsgruppen i nästan redan är fulla. De anmälningar som inte får plats kommer hamna i en väntelista som vi kan använda om grupperna kan fyllas på senare. Senast på fredag den 12:e aug skickar vi ut mail till alla anmälda (till emailen angiven i formuläret) med definitivt besked om ni är med i grupp eller  reservlista samt lite allmän information.  
+
 Har du yngre barn (ca 7år och yngre) så boka gärna anmäl dig gärna till knatte-gruppen där det finns fler lediga platser än nybörjargruppen.  
-Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er på vår [facebook-sida](https://www.facebook.com/groups/malmobmx) så kan vi prata mer!
+
+Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er på vår [facebook-sida](https://www.facebook.com/groups/malmobmx) så kan vi prata mer!  
 Länk till anmälan: https://forms.gle/9fecjYKnpAHhjoFZA
 
-Anmälan till träning HT2022 är nu utskickad till våra medlemmar, nästa tisdag (den 9:e aug) är tanken att öppna anmälan för alla. Då intresset kan vara större än vi har ledare till så kan vi tyvärr inte garantera alla en plats utan vi kommer gå i turordning på anmälningarna, dvs först till kvarn.
 ### Har ni prova på?
 Vi har inga dedikerade prova-på tillfällen men skulle ni mot all förmoda inte gilla bmx-racing efter de tre första träningstillfällena behöver ni inte betala träningsavgift, men meddela gärna tränaren så vi kan ta in nya åkare från ev. reservlista.   
 ### När börjar träningen?
