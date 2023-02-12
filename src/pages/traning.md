@@ -8,40 +8,51 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till?
-Anmälan för Höstterminen 2022 är nu stängd och grupper är skapade.
-Är du sent ute kan det finnas platser kvar så pinga oss i vår [facebook-sida](https://www.facebook.com/groups/malmobmx) så kan vi se om det går att lösa.
+Vi jobber för tillfället med grupper och träningar vårterminen 2023. Håll utkik på vår [facebook-sida](https://www.facebook.com/groups/malmobmx) för senaste info.
 
 ### Har ni prova på?
-Vi har inga dedikerade prova-på tillfällen men skulle ni mot all förmoda inte gilla bmx-racing efter de tre första träningstillfällena behöver ni inte betala träningsavgift, men meddela gärna tränaren så vi kan ta in nya åkare från ev. reservlista.   
+År 2022 hade vi inga dedikerade prova-på tillfällen utan såg de första tre träningstillfällena som prova på. Hur vi gör 2023 är inte bestämt än.
+
 ### När börjar träningen?
-Träningsstart HT2022 är vecka 33 men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) utifall vädret skulle ställa till det. Kolla gärna vår [kalender](/kalender) för träningstider, tävlingar och banfix
+Träningsstart VT2023 är inte satt än men det brukar bli tillräckligt bra väder för att starta i början av Mars men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) för uppdateringar i ämnet.
+
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
-Våra grupper HT 2022 är (med reservation för ändringar).
+Grupper för VT 2023 är inte satt än men de kommer förmodligen vara ganska lika de vi hade HT 2022 (listade nedan)
+
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Tisdagar 17:30 - 18:30  
+
 ### Nybörjargruppen
 Även här ligger fokus på att lära känna cykeln och kunna  ta sig runt banan, dock med lite mer fart än knattarna och viss teknikträning som tex pumpning, starter och kurvtagning.  Lämplig ålder 7år och uppåt och inga förkunskaper krävs. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Torsdag 18:30 - 19:30  
+
 ### Tävlingsgruppen
 Här cyklar de barn och ungdomar som kört tidigare och vill ha lite högre tempo än nybörjargruppen. Fokus ligger mer på att kunna köra snabbare, träning inför tävling och teknikträning på tex wheelies, hopp, pumpning och starter. De som tränar här förväntas ha egen cykel och utrustning.  
 Tid: Måndagar & Onsdagar 18:00 - 19:00
+
 ### Tjejgruppen
 Det är på tok för få tjejer som hittat till vår underbara sport så det tänkte vi försöka ändra på med en dedikerad tjejgrupp där alla tjejer är välkomna! Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
 Tid: Torsdag 17:30 - 18:30
+
 ### 13+
 Ungdomsträning för de över 13. Högre tävlings-inriktat tempo inklusive fys-träning. De som tränar här förväntas ha egen cykel och utrustning.  
 Tid: Tisdagar 19:00 - 20:00  
+
 ### Cruiserträning
 Spontan-träning där vuxna är välkomna. Såklart är även barnen till tränande föräldrar välkomna.  
 Tid: Måndagar 19:00 - 20:00  
+
 ### Lördagar
 På lördagförmiddagarna är det ofta spontan "fri träning" mellan 10:00 - 12:00 för medlemmar med egen utrustning. Håll koll i medlemsgruppen för att se när det blir av.
+
 ## Syskonförtur
 Vi vet hur struligt det kan vara att få till vardagspusslet så vi försöker ordna med syskonförtur vad gäller gruppindelning.
+
 ## Låna utrustning
 Vi har ett begränsat antal lånecyklar och lånehjälmar. Dessa används framförallt av nya cyklister och är det många som vill låna kan det bli att turas om. De cyklister som sen fortsätter cykla brukar skaffa egen cykel och hjälm. Mer info om vart man kan hitta cykel [hittar du här](/faq#utrustning).
+
 ## Regler
 För att undvika olyckor på banan har vi några enkla regler som skall följas när du cyklar på banan:
 1. Cyklisten skall ha fullface-hjälm, långärmad tröja, byxor och handskar
@@ -51,10 +62,10 @@ För att undvika olyckor på banan har vi några enkla regler som skall följas 
 5. Om någon ramlat i banan sakta ned och kolla läget.  
 
 ## Avgifter
-### Medlemsavgift 2022
+### Medlemsavgift 2023
 Medlem / per kalenderår: 100,00
  	 
-### Träningsavgift 2022	 
+### Träningsavgift 2023	 
 Per kalenderår: 1200,00  
 Per kalenderhalvår: 700,00  
 
