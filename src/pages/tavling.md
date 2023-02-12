@@ -7,7 +7,7 @@ topImage: image5
 ---
 
 ## Kommande tävlingar 2023
-![tävlingskalender 2023](static/img/tavlingskalender2023.jpg)
+![tävlingskalender 2023](img/tavlingskalender2023.jpg)
 
 ## Licens
 ![race](/img/race.jpg#right)
