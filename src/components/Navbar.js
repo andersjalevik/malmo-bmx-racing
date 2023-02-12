@@ -1,21 +1,22 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import Box from '@mui/material/Box';
-import { styled } from '@mui/material/styles';
-import Menu from '@mui/material/Menu';
-import MenuItem from '@mui/material/MenuItem';
-import MenuIcon from '@mui/icons-material/Menu';
+import React from "react";
+import { Link } from "gatsby";
+import Box from "@mui/material/Box";
+import { styled } from "@mui/material/styles";
+import Menu from "@mui/material/Menu";
+import MenuItem from "@mui/material/MenuItem";
+import MenuIcon from "@mui/icons-material/Menu";
 
 const links = [
-  {name: 'Välkommen', url:'/'},
-  {name: 'Nyheter', url:'/blog'},
-  {name: 'Kalender', url:'/kalender'},
-  {name: 'Träning', url:'/traning'},
-  {name: 'Frågor', url:'/faq'},
-  {name: 'Tävling', url:'/tavling'},
-//  {name: 'Styrelse', url:'/styrelse'},
-  {name: 'Länkar', url:'/lankar'},
-]
+  { name: "Välkommen", url: "/" },
+  { name: "Nyheter", url: "/blog" },
+  { name: "Kalender", url: "/kalender" },
+  { name: "Träning", url: "/traning" },
+  { name: "Frågor", url: "/faq" },
+  { name: "Tävling", url: "/tavling" },
+  //  {name: 'Styrelse', url:'/styrelse'},
+  { name: "Länkar", url: "/lankar" },
+  { name: "Admin", url: "https://www.malmobmxracing.se/admin/" },
+];
 
 const StyledLink = styled(Link)(
   () => `
@@ -30,11 +31,10 @@ const StyledLink = styled(Link)(
     text-decoration: none;
     border-bottom: 3px solid white !important;
   }
-`,
+`
 );
 
-
-const MobileMenu = ({location, links}) => {
+const MobileMenu = ({ location, links }) => {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
   const handleClose = () => {
@@ -45,56 +45,71 @@ const MobileMenu = ({location, links}) => {
     if (!open) {
       setAnchorEl(event.currentTarget);
     } else {
-      handleClose()
+      handleClose();
     }
   };
 
   return (
-    <Box sx={{
-      padding: '16px',
-      ".MuiSvgIcon-root": {
-        color: 'white',
-      },
-      ":hover": {
-         backgroundColor: 'white',
-         ".MuiSvgIcon-root": {
-          color: 'inherit',
-        } 
-      },
-    }}
-       onClick={handleClick}
+    <Box
+      sx={{
+        padding: "16px",
+        ".MuiSvgIcon-root": {
+          color: "white",
+        },
+        ":hover": {
+          backgroundColor: "white",
+          ".MuiSvgIcon-root": {
+            color: "inherit",
+          },
+        },
+      }}
+      onClick={handleClick}
     >
-      <MenuIcon/>
-      
+      <MenuIcon />
+
       <Menu
         id="long-menu"
         MenuListProps={{
-          'aria-labelledby': 'long-button',
-          style: {padding: 0}
+          "aria-labelledby": "long-button",
+          style: { padding: 0 },
         }}
         anchorEl={anchorEl}
         open={open}
         onClose={handleClose}
         PaperProps={{
           style: {
-            width: '20ch',
+            width: "20ch",
             margin: 0,
             padding: 0,
           },
         }}
       >
         {links.map((link) => (
-          <MenuItem style={{padding: 0, margin: 0}}key={link.name} selected={false} onClick={handleClose}>
-            <Link style={{padding: '8px 12px 8px 12px', width: '100%', textDecoration: 'none'}} to={link.url}>{link.name}</Link>
+          <MenuItem
+            style={{ padding: 0, margin: 0 }}
+            key={link.name}
+            selected={false}
+            onClick={handleClose}
+          >
+            <Link
+              style={{
+                padding: "8px 12px 8px 12px",
+                width: "100%",
+                textDecoration: "none",
+              }}
+              to={link.url}
+            >
+              {link.name}
+            </Link>
           </MenuItem>
         ))}
       </Menu>
     </Box>
   );
-}
+};
 
-const Navbar = ({location, numberOfTabs})=> {
-  const path = location?.pathname
+const Navbar = ({ location, numberOfTabs }) => {
+  const path = location?.pathname;
   /*
   const windowWidth = useWindowWidth()
   console.log(windowWidth)
@@ -113,49 +128,54 @@ const Navbar = ({location, numberOfTabs})=> {
   }
 */
 
-  const navbarLinks = links.slice(0, numberOfTabs)
-  const menuLinks = links.slice(numberOfTabs, links.length)
+  const navbarLinks = links.slice(0, numberOfTabs);
+  const menuLinks = links.slice(numberOfTabs, links.length);
   return (
     <Box
       role="navigation"
       aria-label="main-navigation"
       sx={{
-        display: 'flex',
-        justifyContent: 'space-evenly',
-        backgroundColor: '#12628e',
+        display: "flex",
+        justifyContent: "space-evenly",
+        backgroundColor: "#12628e",
       }}
     >
-      {navbarLinks.map(({name, url}) => {
-        const selected =  url === '/' ? path === url : path && path.indexOf(url) > -1
+      {navbarLinks.map(({ name, url }) => {
+        const selected =
+          url === "/" ? path === url : path && path.indexOf(url) > -1;
 
-        return (    
-        <StyledLink sx={{
+        return (
+          <StyledLink
+            sx={{
+              flexGrow: 1,
+              textAlign: "center",
+              backgroundColor: selected ? "white" : "inherit",
+              color: selected ? "#08354e" : "white",
+              borderBottomColor: selected ? "white" : "#08354e",
+            }}
+            to={url}
+          >
+            {name}
+          </StyledLink>
+        );
+      })}
+      <Box
+        sx={{
           flexGrow: 1,
-          textAlign: 'center',
-          backgroundColor: selected ? 'white' : 'inherit',
-          color: selected ? '#08354e' : 'white',
-          borderBottomColor: selected ? 'white' : '#08354e',
-        }} to={url}>
-          {name}
-        </StyledLink>
-      )})}
-      <Box sx={{
-          flexGrow: 1,
-          textAlign: 'center',
-          backgroundColor: 'inherit',
-          color:  'white',
-          borderBottom: '3px solid #08354e',
-          ":hover" : {
-            borderBottom: '3px solid white !important'
+          textAlign: "center",
+          backgroundColor: "inherit",
+          color: "white",
+          borderBottom: "3px solid #08354e",
+          ":hover": {
+            borderBottom: "3px solid white !important",
           },
-
-        }}>
+        }}
+      >
         <MobileMenu location={location} links={menuLinks} />
       </Box>
-      
-  </Box>
-  )
-}
+    </Box>
+  );
+};
 
 /*
 xs, extra-small: 0px
@@ -164,15 +184,19 @@ md, medium: 900px
 lg, large: 1200px
 xl,
 */
-const Adaptive = ({location}) => {
+const Adaptive = ({ location }) => {
   return (
     <div>
       {/*<Navbar location={location}/>*/}
 
-      <Box sx={{display: {xs: 'inherit', sm: 'none'}}}><Navbar location={location} numberOfTabs="2"/></Box>
-      <Box sx={{display: {xs: 'none', sm: 'inherit'}}}><Navbar location={location} numberOfTabs="5"/></Box>
+      <Box sx={{ display: { xs: "inherit", sm: "none" } }}>
+        <Navbar location={location} numberOfTabs="2" />
+      </Box>
+      <Box sx={{ display: { xs: "none", sm: "inherit" } }}>
+        <Navbar location={location} numberOfTabs="5" />
+      </Box>
     </div>
-  )
-}
+  );
+};
 
-export default Adaptive
+export default Adaptive;

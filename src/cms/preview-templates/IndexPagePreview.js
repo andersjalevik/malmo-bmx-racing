@@ -1,15 +1,14 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { IndexPageTemplate } from '../../templates/index-page'
+import { IndexPageTemplateCMS } from '../../templates/index-page'
 
-const IndexPagePreview = ({ entry, getAsset }) => {
+const IndexPagePreview = ({ entry, getAsset, widgetFor }) => {
   const data = entry.getIn(['data']).toJS()
-
   if (data) {
     
     return (
-      <div style={{backgroundColor: 'white', padding: '16px'}}>
-      <IndexPageTemplate
+      <div style={{backgroundColor: 'white', padding: '16px', minHeight: 'calc(95vh)'}}>
+      <IndexPageTemplateCMS
         title={data.title}
         image={getAsset(data.image)}
         html={data.body}

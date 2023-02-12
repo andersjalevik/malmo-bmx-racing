@@ -3,7 +3,20 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import ReactMarkdown from 'react-markdown'
 
+export const StandardPageTemplateCMS = ({ title, content, contentComponent }) => {
+  const PageContent = contentComponent || Content
+   return (
+     <div>
+       <div>
+     <h1>
+       {title}
+     </h1>
+     </div>
+     <ReactMarkdown>{content}</ReactMarkdown>
+   </div>)
+ }
 export const StandardPageTemplate = ({ title, content, contentComponent }) => {
  const PageContent = contentComponent || Content
   return (
@@ -11,6 +24,7 @@ export const StandardPageTemplate = ({ title, content, contentComponent }) => {
     <h1>
       {title} 
     </h1>
+    {/* <HTMLContent content={content} /> */}
     <PageContent className="content" content={content} />
   </>)
 }

@@ -18,18 +18,34 @@ export const BlogPostTemplate = ({
   image,
 }) => {
   const PostContent = contentComponent || Content
+
   return (
     <section className="section">
       {helmet || ''}
         <div><h1>{title}</h1></div>
         <div>
-        {image && <Box sx={{
-          width: {xs: '100%', sm: '45%', md: '45%'},
-          float: {xs: 'inherit', sm: 'right', md: 'right'},
-          margin: {xs: '0', sm: "0 0 1em 2em", md: "0 0 1em 2em"},
-        }}>
+          {(image?.childImageSharp) && (
+            <Box sx={{
+              width: {xs: '100%', sm: '45%', md: '45%'},
+              float: {xs: 'inherit', sm: 'right', md: 'right'},
+              margin: {xs: '0', sm: "0 0 1em 2em", md: "0 0 1em 2em"},
+            }}>
           <Img fluid={image.childImageSharp.fluid}/>
-        </Box>}
+          </Box>
+          )}
+          
+          { // Used by cms preview, wont render styled components
+          (image && !image.childImageSharp) && (
+            <Box style={{
+              maxWidth: '360px',
+              width: '100%',
+              float: 'right', 
+              margin: '0 0 1em 2em',
+            }}>
+            <img src={image} style={{width: '100%'}} />
+          </Box>
+          )}
+    
         <PostContent content={content} />
           {tags && tags.length ? (
             <div>

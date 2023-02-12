@@ -1,15 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { StandardPageTemplate } from '../../templates/standard-page'
+import { StandardPageTemplateCMS } from '../../templates/standard-page'
 
-const StandardPagePreview = ({ entry, widgetFor }) => (
+const StandardPagePreview = ({ entry, widgetFor }) => {
+  const data = entry.getIn(['data']).toJS()
+  return (
+  
   <div style={{backgroundColor: 'white', padding: '16px'}}>
-  <StandardPageTemplate
+  <StandardPageTemplateCMS
     title={entry.getIn(['data', 'title'])}
-    content={widgetFor('body')}
+    content={data.body}
   />
   </div>
 )
+  }
 
 StandardPagePreview.propTypes = {
   entry: PropTypes.shape({

@@ -32,7 +32,6 @@ collections:
         label: "Välkommen"
         name: "index"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: "text"}
           - {label: Top Image, name: topImage, widget: string}
@@ -40,7 +39,6 @@ collections:
         label: "Träning"
         name: "traning"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: "text"}
       - file: "src/pages/faq.md"
@@ -67,6 +65,13 @@ collections:
       - file: "src/pages/lankar.md"
         label: "Länkar"
         name: "lankar"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: "text"}
+      - file: "src/pages/arbetsgrupper.md"
+        label: "Arbetsgrupper"
+        name: "arbetsgrupper"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
           - {label: Title, name: title, widget: string}

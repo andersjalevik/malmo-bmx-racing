@@ -1,28 +1,39 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Content, { HTMLContent } from "../components/Content";
+import ReactMarkdown from 'react-markdown'
 
-export const IndexPageTemplate = ({
-  title,
-  html,
-}) => (
-  <div>
-    <h1>{title}</h1>
-    <div dangerouslySetInnerHTML={{ __html: html }} />
+export const IndexPageTemplateCMS = ({ title, html }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      <ReactMarkdown>{html}</ReactMarkdown>
     </div>
+  );
+};
 
-)
+export const IndexPageTemplate = ({ title, html }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      {/*<div dangerouslySetInnerHTML={{ __html: html }} /> */}
+      <HTMLContent content={html} />
+    </div>
+  );
+};
 
 IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   body: PropTypes.string,
-}
+};
 
 const IndexPage = ({ data, location }) => {
   return (
-    <Layout 
-      location={location} topImage={data.markdownRemark.frontmatter.topImage}
+    <Layout
+      location={location}
+      topImage={data.markdownRemark.frontmatter.topImage}
       title={data.markdownRemark.frontmatter.title}
       description={data.markdownRemark.frontmatter.description}
     >
@@ -30,9 +41,9 @@ const IndexPage = ({ data, location }) => {
         title={data.markdownRemark.frontmatter.title}
         html={data.markdownRemark.html}
       />
-      </Layout>
-  )
-}
+    </Layout>
+  );
+};
 /*
 IndexPage.propTypes = {
   data: PropTypes.shape({
@@ -42,7 +53,7 @@ IndexPage.propTypes = {
   }),
 }
 */
-export default IndexPage
+export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
@@ -55,4 +66,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
