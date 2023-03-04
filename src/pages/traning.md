@@ -8,17 +8,24 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till?
-Vi jobber för tillfället med grupper och träningar vårterminen 2023. Håll utkik på vår [facebook-sida](https://www.facebook.com/groups/malmobmx) för senaste info.
+Nu är anmälan till vårterminen 2023 äntligen öppen!
+Vi satsar på att börja köra vecka 10 (6-9:e Mars) om inte vädret ställer till det för oss (håll utkik här för uppdaterad info).
+Vi kör ingen prova på den här säsongen utan de första tre gångerna man tränar ses som en pröva-på-period.
+Det brukar vara mest tryck på nybörjargruppen och blir det för många anmälda kan det i värsta fall hända att vi får använda oss av en väntelista. Så har du yngre barn (ca 7år och yngre) så anmäl dig gärna till knatte-gruppen där det finns fler lediga platser än nybörjargruppen. Vi har också en dedikerat tjejgrupp som gärna får fler åkare (oavsett ålder och tidigare cykel-vana).
+Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp och avlastar på så sätt nuvarande nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er nedan i kommentarerna isåfall så kan vi prata mer!
+
+Anmälan hittar ni här.
+https://forms.gle/TBQX7uzxwqzyPCtUA
 
 ### Har ni prova på?
-År 2022 hade vi inga dedikerade prova-på tillfällen utan såg de första tre träningstillfällena som prova på. Hur vi gör 2023 är inte bestämt än.
+Vi har inga dedikerade prova-på tillfällen utan såg de första tre träningstillfällena som prova på. 
 
 ### När börjar träningen?
-Träningsstart VT2023 är inte satt än men det brukar bli tillräckligt bra väder för att starta i början av Mars men håll koll på vår [facebooksida](https://www.facebook.com/groups/malmobmx) för uppdateringar i ämnet.
+Vi satsar på träningsstart vecka 10 men håll utkik på vår [facebooksida](https://www.facebook.com/groups/malmobmx) då marsvädret kan vara lite lurigt!
 
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
-Grupper för VT 2023 är inte satt än men de kommer förmodligen vara ganska lika de vi hade HT 2022 (listade nedan)
+Grupper för VT 2023:
 
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
