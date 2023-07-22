@@ -8,7 +8,7 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till?
-Börja med att läsa på nedan om våra grupper och skicka sedan ett mail till malmobmxracing(alfasnabel)gmail.com med:
+Börja med att läsa på nedan om våra grupper och skicka sedan ett mail till malmobmxracing@gmail.com med:
 - Namn
 - Ålder
 - Grupp ni önskar träna
@@ -17,7 +17,7 @@ Börja med att läsa på nedan om våra grupper och skicka sedan ett mail till m
  
 Det brukar vara mest tryck på nybörjargruppen och blir det för många anmälda kan det i värsta fall hända att inte alla får plats så har du yngre barn (ca 7år och yngre) så anmäl dig gärna till knatte-gruppen där det finns fler lediga platser än nybörjargruppen. Vi har också en dedikerat tjejgrupp som gärna får fler åkare (oavsett ålder och tidigare cykel-vana).
 
-Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp och avlastar på så sätt nuvarande nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er till malmobmxracing(alfasnabel)gmail.com så hjälper vi er att komma igång!
+Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp och avlastar på så sätt nuvarande nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er till malmobmxracing@gmail.com så hjälper vi er att komma igång!
 
 ### Har ni prova på?
 Vi har i skrivande stund inga inplanerade prova-på tillfällen men håll ett öga på vår facebooksida för framtida prova-på tillfällen.
