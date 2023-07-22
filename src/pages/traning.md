@@ -8,24 +8,26 @@ topImage: image3
 
 ## Börja träna
 ### Hur går anmälning till?
-Nu är anmälan till vårterminen 2023 äntligen öppen!
-Vi satsar på att börja köra vecka 10 (6-9:e Mars) om inte vädret ställer till det för oss (håll utkik här för uppdaterad info).
-Vi kör ingen prova på den här säsongen utan de första tre gångerna man tränar ses som en pröva-på-period.
-Det brukar vara mest tryck på nybörjargruppen och blir det för många anmälda kan det i värsta fall hända att vi får använda oss av en väntelista. Så har du yngre barn (ca 7år och yngre) så anmäl dig gärna till knatte-gruppen där det finns fler lediga platser än nybörjargruppen. Vi har också en dedikerat tjejgrupp som gärna får fler åkare (oavsett ålder och tidigare cykel-vana).
-Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp och avlastar på så sätt nuvarande nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er nedan i kommentarerna isåfall så kan vi prata mer!
+Börja med att läsa på nedan om våra grupper och skicka sedan ett mail till malmobmxracing(alfasnabel)gmail.com med:
+- Namn
+- Ålder
+- Grupp ni önskar träna
+- Om ni har egen utrustning
+- Om ni tränat förra säsongen. 
+ 
+Det brukar vara mest tryck på nybörjargruppen och blir det för många anmälda kan det i värsta fall hända att inte alla får plats så har du yngre barn (ca 7år och yngre) så anmäl dig gärna till knatte-gruppen där det finns fler lediga platser än nybörjargruppen. Vi har också en dedikerat tjejgrupp som gärna får fler åkare (oavsett ålder och tidigare cykel-vana).
 
-Anmälan hittar ni här.
-https://forms.gle/TBQX7uzxwqzyPCtUA
+Är ni några föräldrar som är sugna på att hålla i en grupp själva? Isåfall hjälper vi gärna er att komma igång med en till nybörjargrupp och avlastar på så sätt nuvarande nybörjargrupp! Inga förkunskaper krävs och de som nu är tränare i grupperna är också föräldrar till cyklande barn. Hör av er till malmobmxracing(alfasnabel)gmail.com så hjälper vi er att komma igång!
 
 ### Har ni prova på?
-Vi har inga dedikerade prova-på tillfällen utan såg de första tre träningstillfällena som prova på. 
+Vi har i skrivande stund inga inplanerade prova-på tillfällen men håll ett öga på vår facebooksida för framtida prova-på tillfällen.
 
 ### När börjar träningen?
-Vi satsar på träningsstart vecka 10 men håll utkik på vår [facebooksida](https://www.facebook.com/groups/malmobmx) då marsvädret kan vara lite lurigt!
+Vårterminen brukar starta i början på Mars och sluta när sommarloven börjar i  mitten / slutet av Juni. Höstterminen brukar starta när skolorna börja i mitten av Augusti och sluta framåt slutet av November.  
+Vår sport är dock väderberoende så håll koll på vår medlemssida på facebook för exakt datum.
 
 ## Våra grupper
 ![vattenspridare](/img/vattenspridare.jpg#right)
-Grupper för VT 2023:
 
 ### Knattegruppen
 Gruppen får de allra yngsta cyklisterna med ålder någonstans mellan 4 och 7 år. Här är det ganska fri cykling med fokus på att lära känna cykel och säkert kunna ta sig runt banan.  Föräldrar är välkomna att springa med barnen på banan och hjälpa till. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
@@ -82,11 +84,3 @@ Swish: 123 105 94 27
 
 Markera betalningen med avgifts-typ samt åkarens personnr  
 
-## Starta upp en ny grupp?
-![freddy](/img/freddy.jpg#left)
-Alla våra tränare är engagerade föräldrar som själva har barn i gruppen de tränar. Har du barn som är sugna på att cykla och där du själv är nyfiken (tilsammans med andra föräldrar) att starta upp en egen grupp?  
-
-Hör isåfall av dig till oss på vår [facebook-sida](https://www.facebook.com/groups/malmobmx) så kan vi snacka ihop oss! Du behöver ingen större förkunskap och du kommer få många glada leenden tillbaka! Vi kommer såklart även se till att någon av nuvarande tränare kommer vara med i början och visa hur allt fungerar samt ge lite tips!  
-  
-  
-  
