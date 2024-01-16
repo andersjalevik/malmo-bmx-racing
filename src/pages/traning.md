@@ -82,5 +82,5 @@ Per kalenderhalvår: 700,00
 Pg-konto: 749019-6  
 Swish: 123 105 94 27  
 
-Markera betalningen med avgifts-typ samt åkarens personnr  
+Markera betalningen med avgifts-typ samt åkarens personnr.  
 
