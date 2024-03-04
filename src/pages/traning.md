@@ -38,7 +38,9 @@ Tid: Tisdagar 17:30 - 18:30
 Tid: Onsdag 17:30 - 18:30
 
 ### Fortsättningsgruppen
-Här tränar de som har tagit steget vidare från Nybörjargruppen, Tjejgruppen eller Knattegruppen. Lite mer rutinerade cyklister som är redo för mer avancerad träning, men inte vill ta steget upp till tävlingsgruppen än. Här förväntas cyklisterna ha egen cykel och utrustning.
+Här tränar de som har tagit steget vidare från Nybörjargruppen, Tjejgruppen eller Knattegruppen. Lite mer rutinerade cyklister som är redo för mer avancerad träning, men inte vill ta steget upp till tävlingsgruppen än. 
+Här förväntas cyklisterna ha egen cykel och utrustning
+
 Tid: Torsdag 18.30-19.30 och Söndag 15.00-16.00  
 
 ### Tävlingsgruppen
