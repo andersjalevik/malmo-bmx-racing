@@ -35,11 +35,15 @@ Tid: Tisdagar 17:30 - 18:30
 
 ### Nybörjargruppen
 Även här ligger fokus på att lära känna cykeln och kunna  ta sig runt banan, dock med lite mer fart än knattarna och viss teknikträning som tex pumpning, starter och kurvtagning.  Lämplig ålder 7år och uppåt och inga förkunskaper krävs. Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
-Tid: Torsdag 18:30 - 19:30  
+Tid: Onsdag 17:30 - 18:30
+
+### Fortsättningsgruppen
+Här tränar de som har tagit steget vidare från Nybörjargruppen, Tjejgruppen eller Knattegruppen. Lite mer rutinerade cyklister som är redo för mer avancerad träning, men inte vill ta steget upp till tävlingsgruppen än. Här förväntas cyklisterna ha egen cykel och utrustning.
+Tid: Torsdag 18.30-19.30 och Söndag 15.00-16.00  
 
 ### Tävlingsgruppen
 Här cyklar de barn och ungdomar som kört tidigare och vill ha lite högre tempo än nybörjargruppen. Fokus ligger mer på att kunna köra snabbare, träning inför tävling och teknikträning på tex wheelies, hopp, pumpning och starter. De som tränar här förväntas ha egen cykel och utrustning.  
-Tid: Måndagar & Onsdagar 18:00 - 19:00
+Tid: Måndagar & Onsdagar 18:30 - 19:30
 
 ### Tjejgruppen
 Det är på tok för få tjejer som hittat till vår underbara sport så det tänkte vi försöka ändra på med en dedikerad tjejgrupp där alla tjejer är välkomna! Ett begränsat antal lånecyklar / utrustning finns att låna (men då det är begränsat kan det bli att turas om vid högt tryck)  
@@ -47,11 +51,11 @@ Tid: Torsdag 17:30 - 18:30
 
 ### 13+
 Ungdomsträning för de över 13. Högre tävlings-inriktat tempo inklusive fys-träning. De som tränar här förväntas ha egen cykel och utrustning.  
-Tid: Tisdagar 19:00 - 20:00  
+Tid: Tisdagar 18:30 - 19:30  
 
 ### Cruiserträning
 Spontan-träning där vuxna är välkomna. Såklart är även barnen till tränande föräldrar välkomna.  
-Tid: Måndagar 19:00 - 20:00  
+Tid: Måndagar 19:30 - 20:30  
 
 ### Lördagar
 På lördagförmiddagarna är det ofta spontan "fri träning" mellan 10:00 - 12:00 för medlemmar med egen utrustning. Håll koll i medlemsgruppen för att se när det blir av.
