@@ -41,7 +41,7 @@ Tid: Onsdag 17:30 - 18:30
 Här tränar de som har tagit steget vidare från Nybörjargruppen, Tjejgruppen eller Knattegruppen. Lite mer rutinerade cyklister som är redo för mer avancerad träning, men inte vill ta steget upp till tävlingsgruppen än. 
 Här förväntas cyklisterna ha egen cykel och utrustning
 
-Tid: Torsdag 18.30-19.30 och Söndag 15.00-16.00  
+Tid: Torsdag 18.30-19.30  
 
 ### Tävlingsgruppen
 Här cyklar de barn och ungdomar som kört tidigare och vill ha lite högre tempo än nybörjargruppen. Fokus ligger mer på att kunna köra snabbare, träning inför tävling och teknikträning på tex wheelies, hopp, pumpning och starter. De som tränar här förväntas ha egen cykel och utrustning.  
