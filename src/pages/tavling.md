@@ -6,14 +6,10 @@ description: Malmö BMX Racing - Tävling
 topImage: image5
 ---
 
-## Kommande tävlingar 2023
-
-[![tävlingskalender 2023](img/tavlingskalender2023.jpg#stretch)](img/tavlingskalender2023.jpg)
-
 ## Licens
 
 ![race](/img/race.jpg#right)
-För att tävla i bmx krävs en licens från svenska cykelförbundet (scf). Med licensen följer även en försäkring. Du ansöker om licens på följande vis:
+Alla som tränar bmx ska ha en licens från svenska cykelförbundet (scf). Med licensen följer även en försäkring. Licens är gratis för cyklister upp till 11 år. Du ansöker om licens på följande vis:
 
 1. Prata med oss i klubbstugan för att få reda på ditt idrottsID (IID).
 
@@ -42,13 +38,13 @@ Licenstyp är i de flesta fall:
 
 För elitklasser etc. finns mer info om de olika typerna finns [här](https://scf.se/forbundet/tavlingsavgifter/licensavgifter-2022/)
 
-Fungerar det inte som det skall? Kontakta oss på malmobmxracing+licens[at]gmail.com så kan vi förhoppningsvis hjälpa till!
+Fungerar det inte som det skall? Kontakta oss på malmobmxracing@gmail.com så kan vi förhoppningsvis hjälpa till!
 
 [Mer info om licens här](https://scf.se/forbundet/tavlingsverksamhet/tavlingslicens-chip-och-forsakringar/)
 
 ## Tävlingsnummer
 
-Kontakta oss på malmobmxracing[at]gmail.com angående lediga tävlingsnummer.
+Kontakta oss på malmobmxracing@gmail.com angående lediga tävlingsnummer.
 
 ## Regler för skyltar
 
