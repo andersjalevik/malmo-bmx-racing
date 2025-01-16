@@ -1,5 +1,5 @@
 ---
-templateKey: 'standard-page'
+templateKey: standard-page
 path: /arbetsgrupper
 title: Arbetsgrupper
 description: Malmö BMX Racing - Arbetsgrupper
@@ -17,11 +17,6 @@ För dig som gillar att kontakta företag, jobba med sponsor-placering på skylt
 Arbetsområde: Hur går vi tillväga för att i framtiden kunna bygga en moderna bmxbana?  
 Kontakt: Marcus Rostedt  
 För dig som gillar de långa perspektivet och vill jobba för att Malmö får en bmx-bana i världsklass.
-
-### Pumptrack-gruppen  
-Arbetsområde: Projektering och bygge av pumptrack bakom klubbstugan.  
-Kontakt: Magnus Johansson  
-För dig som gillar att planera, gräva, skyffla, fixa dränering, köra grävmaskin och se till bygga Malmös roligaste pumptrack.
 
 ### Hemside-gruppen  
 Arbetsområde: Klubbens nya hemsida men även annan digital kommunikation.  
