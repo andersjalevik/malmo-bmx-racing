@@ -1,5 +1,5 @@
 ---
-templateKey: 'standard-page'
+templateKey: standard-page
 path: /faq
 title: Vanliga frågor
 description: Malmö BMX Racing - Vanliga frågor
@@ -19,21 +19,21 @@ Banan ägs och underhålls av föreningen och dess medlemmar så det är endast 
 ## Träning
 
 ### Har ni prova-på verksamhet?
-Pga av pandemin har vi det här året inte haft någon prova-på. Förhoppningsvis kan vi i framtiden erbjuda prova-på igen.
+Vi har för tillfället inte någon prova på verksamhet, men om du är intresserad av att prova så maila till malmobmxracing@gmail.com så hör vi av oss till er om det finns möjlighet att att komma till ett träningstillfälle.
 
 ### Hur börjar man träna hos er?
 Läs mer om detta på [tränings-sidan](/traning)
 
 
-## <a id="utrustning">Utrustning och cykel</a>
+## Utrustning och cykel
 ![trafik](/img/trafik.jpg#right)
 
 ### Vilken cykelstorlek skall det vara?
-Klart lättast är att testa lånecyklarna på klubben och se vad som passar. Uppsala BMX har annars en [bra sida](https://cykel.smkuppsala.com/traning/kopacykel/) på ungefärliga storlekar.
+Klart lättast är att testa lånecyklarna på klubben och se vad som passar eller bara prata med någon på klubben så hjälper vi gärna till!
 
 
 ### Hur vet jag om jag köper rätt sorts BMX?
-Det är en race-bmx som gäller på banan, inte freestyle, street, dirt eller flatland. Lättaste sättet att identifiera dem är att kolla framdrevet (stort på en race-bmx och mindre på de andra) samt att de saknar peggar och har en lägre profil. Mer info om detta finns även på tidigare nämd länk.
+Det är en race-bmx som gäller på banan, inte freestyle, street, dirt eller flatland. Lättaste sättet att identifiera dem är att kolla framdrevet (stort på en race-bmx och mindre på de andra) samt att de saknar peggar och har en lägre profil. 
 
 ### Vart kan man köpa cyklar?
 Första tipset är facebook-kanalen [BMX Race köp och sälj](https://www.facebook.com/groups/431805447013985). Den är väldigt aktiv och det finns ofta möjlighet att lösa transport vid gemensamma tävlingar etc. Var inte rädd för att posta önskas-meddelanden där.
