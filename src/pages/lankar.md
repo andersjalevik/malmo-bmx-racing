@@ -17,7 +17,7 @@ topImage: image4
 
 ## Klubbar
 * [Engelholm](https://www.ebmx.se/)  
-* [Kungsbacka](https://idrottonline.se/KungsbackaBMX-Klubb-Cykel/)  
+* [Kungsbacka](https://www.kbabmx.se/)  
 * [Lerum](https://www.lerumscykelklubb.se/)  
 * [Märsta](https://www.marstabmx.se/)  
 * [Älvsjö](https://www.alvsjobmx.com/)  
