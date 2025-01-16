@@ -6,7 +6,7 @@ description: Malmö BMX Racing - Träning
 topImage: image3
 ---
 
-## Börja träna
+## Börja träna 
 ### Hur går anmälning till?
 Börja med att läsa på nedan om våra grupper och skicka sedan ett mail till malmobmxracing@gmail.com med:
 - Namn
