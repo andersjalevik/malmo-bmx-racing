@@ -17,6 +17,10 @@ const Footer = class extends React.Component {
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/logo_sbb.png" /></a>
         <a href='' target='_blank'><Logo src="/img/miljofabriken.png" /></a>
         <a target='_blank'><Logo src="/static/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
+        <a target='_blank'><Logo src="/static/img/Önnerups Schakt & Gräv.jpg" /></a>
+        <a target='_blank'><Logo src="/static/img/Outlook-ekzbcbdd (1).png" /></a>
+        <a target='_blank'><Logo src="/static/img/logga jpeg.JPG" /></a>
+        
 
 
 
