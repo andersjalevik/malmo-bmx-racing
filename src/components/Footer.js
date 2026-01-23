@@ -15,7 +15,7 @@ const Footer = class extends React.Component {
         <a href='https://www.lyft-byggmaskiner.se/kontakt/malmo/' target='_blank'><Logo src="/img/logo_lbm.png" /></a>
         <a href='https://malmo.se/' target='_blank'><Logo src="/img/logo_malmo.png" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/logo_sbb.png" /></a>
-        <a href='' target='_blank'><Logo src="/img/miljofabriken.png" /></a>
+        <a href='https://www.miljofabriken.com' target='_blank'><Logo src="/img/miljofabriken.png" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/Önnerups Schakt & Gräv.jpg" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/Outlook-ekzbcbdd (1).png" /></a>
