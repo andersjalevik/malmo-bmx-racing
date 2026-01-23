@@ -32,7 +32,7 @@ const StyledFooter = styled('div')(
   () => `
     border-top: 5px solid #08354e;
     margin-bottom: 40px; 
-    padding: 15px 30px 25px 30px;
+    // padding: 15px 30px 25px 30px;
 `)
 
 const Logo = styled('img')(
