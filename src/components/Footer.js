@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
         <a target='_blank'><Logo src="/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
         <a target='_blank'><Logo src="/img/Önnerups Schakt & Gräv.jpg" /></a>
         <a target='_blank'><Logo src="/img/Outlook-ekzbcbdd (1).png" /></a>
-        <a target='_blank'><Logo src="/img/logga jpeg.JPG" /></a>
+
         
 
 
