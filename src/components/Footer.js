@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/logo_sbb.png" /></a>
         <a href='https://www.miljofabriken.com' target='_blank'><Logo src="/img/miljofabriken.png" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
-        <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/Önnerups Schakt & Gräv.jpg" /></a>
+        <a href='' target='_blank'><Logo src="/img/Önnerups Schakt & Gräv.jpg" /></a>
         </Row>
       </StyledFooter>
     )
