@@ -88,17 +88,22 @@ För att undvika olyckor på banan har vi några enkla regler som skall följas 
 5. Om någon ramlat i banan sakta ned och kolla läget.  
 
 ## Avgifter
-### Medlemsavgift 2025
+### Medlemsavgift 2026
 Medlem / per kalenderår: 100,00
  	 
-### Träningsavgift 2025	 
-För de grupper som tränar en gång per vecka: 
-Per kalenderår: 1200,00  
-Per kalenderhalvår: 700,00  
-
-För de grupper som tränar två gånger per vecka eller mer:
+### Träningsavgift 2026	 
+#### För de grupper som tränar en gång per vecka: 
 Per kalenderår: 1600kr
-Per kalenderhalvår: 900kr
+
+Ej möjligt att betala för halvår om man börjar träna på vårterminen, då betalar man för hela kalenderåret. 
+Börjar man träna på höstterminen betalar man halv årsavgift, 800kr
+ 
+
+#### För de grupper som tränar två gånger per vecka eller mer:
+Per kalenderår: 2000kr
+
+Ej möjligt att betala för halvår om man börjar träna på vårterminen, då betalar man för hela kalenderåret. 
+Börjar man träna på höstterminen betalar man halv årsavgift, 1000kr
 
 ### Postgiro / swish
 Pg-konto: 749019-6  
