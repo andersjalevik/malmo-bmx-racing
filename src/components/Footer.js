@@ -34,9 +34,6 @@ const Footer = class extends React.Component {
 
 const StyledFooter = styled('div')(
   () => `
-    display flex;
-    flew-wrap: wrap;
-    gap 20px;
     border-top: 5px solid #08354e;
     margin-bottom: 40px; 
     padding: 15px 30px 25px 30px;
@@ -50,6 +47,9 @@ const Logo = styled('img')(
 
 const Row = styled('div')(
   () => `
+  display flex;
+  flew-wrap: wrap;
+  gap 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
