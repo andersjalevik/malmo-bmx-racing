@@ -12,7 +12,7 @@ topImage: image6
 ### Dan Stenqvist - Kassör och tränare
 ### Rikard Persson - Ledamot och hjälptränare
 ### Jens Af Forselles - Ledamot och hjälptränare
-### Jimmy Widerberg - Ledamot (avgående)
+### Emma Hansson - Ledamot och tränare
 
 
 
