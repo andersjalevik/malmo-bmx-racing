@@ -43,6 +43,7 @@ const Logo = styled('img')(
   () => `
     max-height: 70px;
     max-width: 180px;
+    object-fit: contain;
 `)
 
 const Row = styled('div')(
@@ -51,7 +52,7 @@ const Row = styled('div')(
   flew-wrap: wrap;
   gap 20px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 `)
 
