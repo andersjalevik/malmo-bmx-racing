@@ -16,7 +16,14 @@ const Footer = class extends React.Component {
         <a href='https://malmo.se/' target='_blank'><Logo src="/img/logo_malmo.png" /></a>
         <a href='https://storbildsbolaget.se/' target='_blank'><Logo src="/img/logo_sbb.png" /></a>
         <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/miljofabriken.png" /></a>
-        <a href='' target='_blank'><Logo src="/static/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img//RSA.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/Nordanå Grusterminal.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/Blue n Yellow.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/Önnerups Schakt & Gräv copy.jpg" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/flackarps-maskinstation-rund-650x650.png" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/Outlook-ekzbcbdd (1).png" /></a>
+        <a href='https://www.miljofabriken.com/' target='_blank'><Logo src="/img/logga jpeg.JPG" /></a>
         </Row>
       </StyledFooter>
     )
