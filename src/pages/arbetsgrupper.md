@@ -10,7 +10,7 @@ Vill du vara med och göra klubben än bättre? Här är de grupper / initiativ 
 
 ### Sponsor-gruppen  
 Arbetsområde: Hur lockar vi fler sponsorer till klubben?  
-Kontakt: Jens Kateb  
+Kontakt: Emma Hansson 
 För dig som gillar att kontakta företag, jobba med sponsor-placering på skyltar / tröjor etc.
 
 ### Bana 2.0-gruppen  
@@ -20,7 +20,7 @@ För dig som gillar de långa perspektivet och vill jobba för att Malmö får e
 
 ### Hemside-gruppen  
 Arbetsområde: Klubbens nya hemsida men även annan digital kommunikation.  
-Kontakt: Anders Jälevik  
+Kontakt: Freddy Arvidsson  
 För dig som gillar att kommunicera, organisera information, skriva, fotografera och/eller webutveckla.
 
 
