@@ -48,12 +48,11 @@ const Logo = styled('img')(
 
 const Row = styled('div')(
   () => `
-  display flex;
-  flew-wrap: wrap;
-  gap 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
 `)
 
 const Header = styled('div')(
