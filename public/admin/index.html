@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>Content Manager</title>
+    <script>
+      // Use local config when running on localhost
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+        // Redirect to use local config
+        if (!location.search.includes('config=')) {
+          location.search = '?config=/admin/config-local.yml';
+        }
+      }
+    </script>
+    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+  </head>
+  <body>
+  </body>
+</html>
