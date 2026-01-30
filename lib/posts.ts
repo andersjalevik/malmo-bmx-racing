@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import { parseMarkdown, parseFrontmatter } from './markdown'
+import { parseMarkdown } from './markdown'
 
 const postsDirectory = path.join(process.cwd(), 'content/blog')
 

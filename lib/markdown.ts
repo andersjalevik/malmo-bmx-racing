@@ -21,7 +21,3 @@ export async function parseMarkdown(fileContent: string): Promise<MarkdownConten
     data,
   }
 }
-
-export function parseFrontmatter(fileContent: string): matter.GrayMatterFile<string> {
-  return matter(fileContent)
-}
