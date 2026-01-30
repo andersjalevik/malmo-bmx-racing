@@ -16,7 +16,7 @@ const links = [
   { name: 'Frågor', url: '/faq' },
   { name: 'Tävling', url: '/tavling' },
   { name: 'Länkar', url: '/lankar' },
-  { name: 'Admin', url: 'https://www.malmobmxracing.se/admin/' },
+  { name: 'Admin', url: '/admin/' },
 ]
 
 const StyledLink = styled(Link)(
