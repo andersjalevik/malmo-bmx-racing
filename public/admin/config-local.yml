@@ -1,0 +1,95 @@
+local_backend: true
+
+backend:
+  name: github
+  repo: andersjalevik/malmo-bmx-racing
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: '[skip ci] Upload "{{path}}"'
+    deleteMedia: '[skip ci] Delete "{{path}}"'
+
+media_folder: public/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "Nyheter"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: image, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/pages/index.md"
+        label: "Välkommen"
+        name: "index"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/traning.md"
+        label: "Träning"
+        name: "traning"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/faq.md"
+        label: "Frågor"
+        name: "faq"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/tavling.md"
+        label: "Tävling"
+        name: "tavling"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/styrelse.md"
+        label: "Styrelse"
+        name: "styrelse"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/lankar.md"
+        label: "Länkar"
+        name: "lankar"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/arbetsgrupper.md"
+        label: "Arbetsgrupper"
+        name: "arbetsgrupper"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
+          - {label: Body, name: body, widget: "markdown"}
+      - file: "content/pages/kalender.md"
+        label: "Kalender"
+        name: "kalender"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string, required: false}
+          - {label: Top Image, name: topImage, widget: string, required: false}
