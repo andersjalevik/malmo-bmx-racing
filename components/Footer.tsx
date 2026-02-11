@@ -63,19 +63,19 @@ export default function Footer() {
         >
           <Logo src="/img/miljofabriken.png" alt="Miljöfabriken" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.ahekonomi.se" target="_blank" rel="noopener noreferrer">
           <Logo
             src="/img/Åkerblom & Hansson Ekonomi & Skattekonsult AB Horisontell.jpg"
             alt="Åkerblom & Hansson"
           />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://rsa-gruppen.se" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/RSA.jpg" alt="RSA" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.grus.nu" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/Nordanå Grusterminal.jpg" alt="Nordanå Grusterminal" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://blueandyellow.se/sv/" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/Blue n Yellow.jpg" alt="Blue n Yellow" />
         </a>
         <a href="/" target="_blank" rel="noopener noreferrer">
@@ -90,16 +90,16 @@ export default function Footer() {
             alt="Flackarps Maskinstation"
           />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://golvbolaget.com" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/Outlook-ekzbcbdd (1).png" alt="Sponsor" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://sprinklersolid.se" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/logga jpeg.JPG" alt="Sponsor" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://guldkanalen.se" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/Guldkanalen.jpg" alt="Sponsor" />
         </a>
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a href="https://jonab.se" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/fea833c0-050d-4d23-a967-8081d6afb848.jpg" alt="Sponsor" />
         </a>
       </Row>
