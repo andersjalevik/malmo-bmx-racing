@@ -96,6 +96,12 @@ export default function Footer() {
         <a href="/" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/logga jpeg.JPG" alt="Sponsor" />
         </a>
+        <a href="/" target="_blank" rel="noopener noreferrer">
+          <Logo src="/img/Guldkanalen.jpg" alt="Sponsor" />
+        </a>
+        <a href="/" target="_blank" rel="noopener noreferrer">
+          <Logo src="/img/fea833c0-050d-4d23-a967-8081d6afb848.jpg" alt="Sponsor" />
+        </a>
       </Row>
     </StyledFooter>
   )
