@@ -102,6 +102,15 @@ export default function Footer() {
         <a href="https://jonab.se" target="_blank" rel="noopener noreferrer">
           <Logo src="/img/fea833c0-050d-4d23-a967-8081d6afb848.jpg" alt="Sponsor" />
         </a>
+          <a href="/" target="_blank" rel="noopener noreferrer">
+          <Logo src="/img/Aderian_Navet_blue_rgb.png" alt="Sponsor" />
+        </a>
+          <a href="/" target="_blank" rel="noopener noreferrer">
+          <Logo src="/img/Trädtjänst LOGO hemsida RGB.png" alt="Sponsor" />
+        </a>
+          <a href="/" target="_blank" rel="noopener noreferrer">
+          <Logo src="/img/1778428149087-b5ac05ca-ad87-4fae-8c49-8a0151c61f7c_1.png" alt="Sponsor" />
+        </a>
       </Row>
     </StyledFooter>
   )
